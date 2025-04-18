@@ -61,7 +61,7 @@ python game.py
 
 ## Customization
 
-You can modify the constants in `Constants.py` to:
+we can modify the constants in `Constants.py` to:
 - Change the grid size (e.g., 5x5 instead of 4x4)
 - Adjust colors and fonts
 - Modify key mappings
@@ -94,6 +94,3 @@ After pressing the Left arrow:
 
 This project is open-source and free to use for learning and development purposes.
 
----
-
-Let me know if you’d like a sample `Constants.py` or `main.py` file added to this README for completeness.
